@@ -1,4 +1,4 @@
-#Haberman_Survival
+
 <body>
 <div class="gallery" style="float:left">
     <img src="Habers/Images/example_1.png" hspace="20">
